@@ -7,7 +7,7 @@ description: Accessibility-first macOS automation with DOM-level precision. Find
 
 Native macOS automation tool using Accessibility API + Vision. Find and interact with UI elements by describing them — no coordinates needed.
 
-**Binary:** `silk` or ``~/.local/bin/silk`
+**Binary:** `silk` or `~/.local/bin/silk`
 
 **Requirements:** Accessibility permissions (System Settings → Privacy & Security → Accessibility)
 
